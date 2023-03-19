@@ -32,7 +32,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import edith from "./edith.png";
 import browser from "./broswer.png";
-import tripguide from "./tripguide.png";
+import dalle from "./dalle.png";
 
 import divakar from "./divakar.jpg";
 import priyanshu from "./priyanshu.jpg";
@@ -73,5 +73,5 @@ export {
   rahul,
   priyanshu,
   divakar,
-  tripguide,
+  dalle,
 };

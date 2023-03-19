@@ -24,7 +24,7 @@ import {
   jobit,
   edith,
   browser,
-  tripguide,
+  dalle,
   threejs,
   pentagonspace,
   divakar,
@@ -210,25 +210,29 @@ const projects = [
     source_code_link: "https://github.com/aayushchauhan10/Edith-chatbot",
   },
   {
-    name: "Trip Guide",
+    name: "AI Pictures",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars.",
+      "A comprehensive Dall-E clone which generates images with the use of OpenAI API and created on the MERN stack technology.",
     tags: [
       {
-        name: "nextjs",
+        name: "MongoDB",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "ExpressJS",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "ReactJS",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "NodeJS",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: dalle,
+    source_code_link: "https://github.com/aayushchauhan10/AI_image",
   },
 ];
 
