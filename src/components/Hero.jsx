@@ -17,10 +17,10 @@ const Hero = () => {
             Hi, I'm <span className="text-[#915eff]">Ayush</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I usually develop Web-Apps, <br className="sm:block hidden" />
-            User Interfaces, currently creating 3D Visuals{" "}
+            I am a developer who creates websites and Web-Apps,{" "}
             <br className="sm:block hidden" />
-            and yeah, I am a content creator too.
+            as well as user interfaces with <br className="sm:block hidden" />
+            enhanced visuals and responsiveness.
           </p>
         </div>
       </div>
